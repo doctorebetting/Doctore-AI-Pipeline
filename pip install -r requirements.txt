@@ -1,0 +1,6 @@
+/config
+/data/raw
+/data/processed
+/models
+/scripts
+/notebooks
